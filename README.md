@@ -38,6 +38,6 @@ This project was developed in Google Colab using Python libraries including:
 
 ## 🔗 Coming Soon
 
-This project will be featured with a visual summary on my [GitHub Pages portfolio site](https://jasonavina.github.io) for non-technical audiences.
+This project will be featured with a visual summary on my [GitHub Pages portfolio site](https://jasonavina.github.io).
 
 
